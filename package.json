@@ -1,0 +1,26 @@
+{
+  "name": "magda_cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fifkapetr/magda_cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fifkapetr/magda_cypress/issues"
+  },
+  "homepage": "https://github.com/fifkapetr/magda_cypress#readme",
+  "devDependencies": {
+    "cypress": "^13.6.4"
+  },
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
